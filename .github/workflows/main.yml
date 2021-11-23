@@ -1,4 +1,4 @@
-name: new_workflow
+name: comment_activity
 
 on:
   pull_request:
