@@ -5,7 +5,10 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch
   pull_request:
     types: [closed]
-    branches: [ $default-branch ]
+    branches:
+     # Push events on main and master branch
+      - main
+      - master
   
 jobs:
   artia_comment_job:
