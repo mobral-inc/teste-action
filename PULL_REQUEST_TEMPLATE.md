@@ -1,7 +1,4 @@
-**Start Artia Link**
-> (Cole o link da atividade aqui mantendo os parenteses)
-
-**End Artia Link**
+Link da tarefa no Artia:[Breve Descrição](cole o link da atividade aqui)
 
 **Start Artia Comment**
 > Não insira código HTML/Markdown dentro do comentário que será enviado para o Artia .
