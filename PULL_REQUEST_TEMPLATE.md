@@ -1,5 +1,5 @@
 **Start Link da Atividade no Artia**
-Delete esse texto e cole aqui o link da atividade do Artia.
+(Delete e cole o link)
 **End Link da Atividade no Artia**
 
 **Start Artia Comment**
