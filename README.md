@@ -9,5 +9,6 @@
 - Teste 7
 - Teste 8
 - Teste 9
-- Tetst  10
+- Tetst 10
 - Teste 11
+- Teste 12
