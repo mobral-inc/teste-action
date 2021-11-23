@@ -17,6 +17,6 @@ jobs:
         id: comment
         uses: mobral-inc/criar-comentario-por-pull-request@v1.1.1
         with: 
-          organizationId: ${{ secrets.ORGANIZATION_ID }}
-          creatorEmail: ${{ secrets.ARTIA_EMAIL }}
-          creatorPassword: ${{ secrets.ARTIA_PASSWORD }}
+          organizationId: ${{ secrets.BOT_ARTIA_ORG_ID }}
+          creatorEmail: ${{ secrets.BOT_ARTIA_EMAIL }}
+          creatorPassword: ${{ secrets.BOT_ARTIA_PASSWORD }}
