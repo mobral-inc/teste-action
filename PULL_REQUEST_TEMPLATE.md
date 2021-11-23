@@ -1,5 +1,5 @@
 **Start Artia Link**
-> (Cole o link da atividade aqui)
+> (Cole o link da atividade aqui mantendo os parenteses)
 
 **End Artia Link**
 
