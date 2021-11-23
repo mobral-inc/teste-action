@@ -3,10 +3,7 @@ name: new_workflow
   
 on:
   pull_request:
-    branches:
-    #Colocamos as branches main/master para incluir todos os casos
-      - main
-      - master
+    branches: [ $default-branch ]
     types: [closed]
 
   
