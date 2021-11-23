@@ -1,5 +1,3 @@
-name: comment_activity
-
 on:
   pull_request:
     types: [closed]
